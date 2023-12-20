@@ -5,7 +5,7 @@ Soy un programador principiante, me gusta la programacion por aprender algo nuev
 Estoy intentando aprender un poco de **C#** y **LUAU**
 
 - 📫 Contactame...  
-Puedes mandarme un mensaje por mi cuenta de X suelo pasar algo de tiempo ahi :D
+Puedes mandarme un mensaje por mi cuenta de X o Guilded suelo pasar algo de tiempo ahi :D
 
 > 🐈 I also speak English
 
