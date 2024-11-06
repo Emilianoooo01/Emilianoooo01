@@ -1,5 +1,5 @@
 - 👋 Hola, Soy **@Emilianoooo01✨**  
-Soy estudiante de Informatica principiante, me gusta la programacion por aprender algo nuevo
+Soy estudiante de Informatica principiante, me gusta la programacion
 
 - 🌱 Estoy aprendiendo...  
 Estoy intentando aprender un poco de **C#** y **LUAU**
