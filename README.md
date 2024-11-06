@@ -1,13 +1,13 @@
 - 👋 Hola, Soy **@Emilianoooo01✨**  
-Soy un programador principiante, me gusta la programacion por aprender algo nuevo y tambien porque es lo que estudio
+Soy estudiante de Informatica principiante, me gusta la programacion por aprender algo nuevo
 
 - 🌱 Estoy aprendiendo...  
 Estoy intentando aprender un poco de **C#** y **LUAU**
 
 - 📫 Contactame...  
-Puedes mandarme un mensaje por mi cuenta de X o Guilded suelo pasar algo de tiempo ahi :D
+Puedes mandarme un mensaje por mi cuenta de Guilded suelo pasar algo de tiempo ahi :D
 
-> 🐈 I also speak English
+>I also speak English
 
 <!---
 Emilianoooo01/Emilianoooo01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
